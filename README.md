@@ -7,12 +7,12 @@ Create a new rails application, in your command prompt
 ```
 $ rails new <your_app_name>
 
-```ruby
+```
 
 ##Step 2
 When everything is generated, go to the new app folder and open up the "Gemfile" on your favorite editor
 Include the [Devise](https://github.com/plataformatec/devise) gem inside this file
-```
+```ruby
 	gem 'devise'
 
 ```
